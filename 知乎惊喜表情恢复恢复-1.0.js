@@ -5,6 +5,7 @@
 // @description  将知乎的 [惊喜] 表情替换为 [可怜] 表情 by：joelovechen
 // @author       You
 // @match        *://www.zhihu.com/*
+// @match        *://zhuanlan.zhihu.com/*
 // @grant        none
 // ==/UserScript==
 
